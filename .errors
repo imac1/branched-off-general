@@ -1,0 +1,32 @@
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'demo': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'demo' not found.
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'merge-conflict': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'merge-conflict' not found.
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'merge-simple': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'merge-simple' not found.
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'merge-undo-last': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'merge-undo-last' not found.
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'rebase-branch': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'rebase-branch' not found.
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'rename-commit': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'rename-commit' not found.
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'undo-last': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'undo-last' not found.
+error: pathspec 'master' did not match any file(s) known to git
+error: unable to delete 'undo-last-but-one': remote ref does not exist
+error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
+error: branch 'undo-last-but-one' not found.
