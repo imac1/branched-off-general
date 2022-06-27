@@ -30,3 +30,27 @@ error: pathspec 'master' did not match any file(s) known to git
 error: unable to delete 'undo-last-but-one': remote ref does not exist
 error: failed to push some refs to 'github.com:imac1/branched-off-general.git'
 error: branch 'undo-last-but-one' not found.
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         demo
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         merge-conflict
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         merge-simple
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         merge-undo-last
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         rebase-branch
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         rename-commit
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         undo-last
+Already on 'master'
+To github.com:imac1/branched-off-general.git
+ - [deleted]         undo-last-but-one
