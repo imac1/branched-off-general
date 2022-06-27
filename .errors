@@ -54,3 +54,11 @@ To github.com:imac1/branched-off-general.git
 Already on 'master'
 To github.com:imac1/branched-off-general.git
  - [deleted]         undo-last-but-one
+Switched to a new branch 'merge-undo-last'
+remote: 
+remote: Create a pull request for 'merge-undo-last' on GitHub by visiting:        
+remote:      https://github.com/imac1/branched-off-general/pull/new/merge-undo-last        
+remote: 
+To github.com:imac1/branched-off-general.git
+ * [new branch]      merge-undo-last -> merge-undo-last
+Switched to a new branch 'undo-last-feature'
